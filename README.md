@@ -1,4 +1,4 @@
-# whatsapp_ui_rizkyadji
+# whatsapp_ui
 
 A new Flutter project.
 
